@@ -22,9 +22,6 @@ export function Hero() {
               {t.eyebrow}
             </span>
           </div>
-          <span className="hidden md:inline font-serif italic text-sm text-foreground/35">
-            {t.edition}
-          </span>
         </div>
 
         {/* Headline */}
@@ -82,13 +79,6 @@ export function Hero() {
                 <span className="text-[11px] uppercase tracking-[0.2em] text-foreground/80">
                   {t.badge}
                 </span>
-              </div>
-            </div>
-
-            {/* Edition tag top-right */}
-            <div className="absolute right-5 top-5 hidden md:block">
-              <div className="glass rounded-full border border-white/10 px-4 py-2 font-serif text-[11px] italic text-foreground/60">
-                {t.edition}
               </div>
             </div>
           </div>

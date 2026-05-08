@@ -71,7 +71,6 @@ export function SiteFooter() {
         <div className="grid gap-10 md:grid-cols-12">
           <div className="md:col-span-5">
             <div className="flex items-baseline gap-2">
-              <span className="font-serif text-3xl tracking-tight text-foreground/80">Gelateria -</span>
               <span className="text-shimmer font-serif text-3xl italic font-bold tracking-tight">
                 Dolce e Gelato
               </span>

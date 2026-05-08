@@ -58,8 +58,6 @@ export function SiteNav() {
             <span className="absolute inset-0 bg-white/20 opacity-0 transition-opacity group-hover:opacity-100" />
           </span>
           <span className="hidden font-sans text-sm font-semibold tracking-wide text-foreground sm:inline">
-            Gelateria
-            <span className="mx-1.5 text-primary/50">·</span>
             <span className="text-shimmer font-bold">Dolce e Gelato</span>
           </span>
         </Link>
