@@ -52,7 +52,7 @@ export function SiteNav() {
         aria-label="Primary"
       >
         {/* Logo */}
-        <Link href="/" aria-label="Gelateria Lucia" className="group flex items-center gap-3">
+        <Link href="/" aria-label="Gelateria Dolce e Gelato" className="group flex items-center gap-3">
           <span className="relative grid size-10 place-items-center overflow-hidden rounded-full gold-gradient shadow-lg shadow-primary/30">
             <span className="font-serif text-lg italic leading-none text-black font-bold">G</span>
             <span className="absolute inset-0 bg-white/20 opacity-0 transition-opacity group-hover:opacity-100" />

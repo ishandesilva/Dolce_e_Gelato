@@ -19,10 +19,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Gelateria Lucia — Slow-churned Italian gelato, made by hand",
-  description:
-    "Small-batch Italian gelato handcrafted daily in Brooklyn. Sicilian pistachio, Sorrento lemon, single-origin chocolate, and a rotating cast of seasonal flavors.",
-  generator: "v0.app",
+  title: "Gelateria Dolce e Gelato | Traditional Italian Gelato",
+  description: "Authentic Italian gelato made with the finest ingredients. Discover our classic and seasona`l flavors, crafted with passion and tradition.",
   icons: {
     icon: [
       { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
