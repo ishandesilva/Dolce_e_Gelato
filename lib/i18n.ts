@@ -404,7 +404,7 @@ export const translations: Record<Lang, Translations> = {
       subscribe: "Subscribe",
       spam: "No spam. Unsubscribe with one click.",
       tagline:
-        "Small-batch Italian gelato, hand-churned every morning at 482 Vanderbilt Avenue, Brooklyn.",
+        "Small-batch Italian gelato, hand-churned every morning in our shop.",
       cols: [
         {
           title: "Shop",
@@ -434,7 +434,7 @@ export const translations: Record<Lang, Translations> = {
           ],
         },
       ],
-      rights: "© {year} Gelateria Lucia. Made by hand in Brooklyn.",
+      rights: "© {year} Gelateria Dolce e Gelato. Made by hand.",
       privacy: "Privacy",
       accessibility: "Accessibility",
       farewell: "Buona giornata.",
@@ -456,7 +456,6 @@ export const translations: Record<Lang, Translations> = {
     },
     hero: {
       eyebrow: "Dal 2014 · Italy",
-      edition: "N° 04 — Edizione di primavera",
       headlinePre: "Dolce e Gelato.",
       headlineItalic1: "Anima siciliana.",
       headlineMid: "Gelato fatto",

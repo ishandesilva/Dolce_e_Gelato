@@ -33,11 +33,11 @@ export function SiteNav() {
   }, [])
 
   const links = [
-    { href: "#flavors", label: t.nav.flavors, n: "✖" },
-    { href: "#seasonal", label: t.nav.seasonal, n: "✖" },
-    { href: "#story", label: t.nav.story, n: "✖" },
-    { href: "#menu", label: t.nav.menu, n: "✖" },
-    { href: "#visit", label: t.nav.visit, n: "✖" },
+    { href: "#flavors", label: t.nav.flavors, n: "█" },
+    { href: "#seasonal", label: t.nav.seasonal, n: "█" },
+    { href: "#story", label: t.nav.story, n: "█" },
+    { href: "#menu", label: t.nav.menu, n: "█" },
+    { href: "#visit", label: t.nav.visit, n: "█" },
   ]
 
   return (
@@ -54,7 +54,7 @@ export function SiteNav() {
         {/* Logo */}
         <Link href="/" aria-label="Gelateria Dolce e Gelato" className="group flex items-center gap-3">
           <span className="relative grid size-10 place-items-center overflow-hidden rounded-full gold-gradient shadow-lg shadow-primary/30">
-            <span className="font-serif text-lg italic leading-none text-black font-bold">G</span>
+            <span className="font-serif text-lg italic leading-none text-black font-bold">D</span>
             <span className="absolute inset-0 bg-white/20 opacity-0 transition-opacity group-hover:opacity-100" />
           </span>
           <span className="hidden font-sans text-sm font-semibold tracking-wide text-foreground sm:inline">
