@@ -18,7 +18,6 @@ type Translations = {
   }
   hero: {
     eyebrow: string
-    headlinePre: string
     headlineItalic1: string
     headlineMid: string
     headlineItalic2: string
@@ -151,9 +150,8 @@ export const translations: Record<Lang, Translations> = {
     },
     hero: {
       eyebrow: "Est. 2014 · Italy",
-      headlinePre: "Dolce e Gelato.",
-      headlineItalic1: "Sicilian-soul.",
-      headlineMid: "Gelato made",
+      headlineItalic1: "Dolce e Gelato.",
+      headlineMid: "made",
       headlineItalic2: "by hand.",
       description:
         "A tiny family-run gelateria churning small batches every morning with whole milk, single-origin pistachios from Bronte, and stone fruit from upstate orchards. No shortcuts. No air. Just gelato the way nonna meant it.",
@@ -458,9 +456,8 @@ export const translations: Record<Lang, Translations> = {
     },
     hero: {
       eyebrow: "Dal 2014 · Italy",
-      headlinePre: "Dolce e Gelato.",
-      headlineItalic1: "Anima siciliana.",
-      headlineMid: "Gelato fatto",
+      headlineItalic1: "Dolce e Gelato.",
+      headlineMid: "fatto",
       headlineItalic2: "a mano.",
       description:
         "Una piccola gelateria a conduzione familiare che manteca piccole partite ogni mattina con latte intero, pistacchi monorigine di Bronte e frutta di stagione dei contadini dell’Hudson Valley. Niente scorciatoie. Niente aria. Solo gelato come lo faceva la nonna.",
