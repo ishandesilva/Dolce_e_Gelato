@@ -19,8 +19,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Gelateria Dolce e Gelato | Traditional Italian Gelato",
-  description: "Authentic Italian gelato made with the finest ingredients. Discover our classic and seasona`l flavors, crafted with passion and tradition.",
+  title: "Dolce e Gelato | Luxury Italian Gelato",
+  description: "Experience authentic Italian gelato made with the finest ingredients. Discover our classic and seasonal flavors, crafted with passion and tradition.",
   icons: {
     icon: [
       { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
